@@ -71,7 +71,7 @@ Built with cutting-edge technologies to handle complex narrative analysis at sca
 
 ## 🚀 Getting Started
 
-Visit [discourcenet.com](https://discourcenet.app) to create your account and start your first project.
+Visit [discourcenet.app](https://discourcenet.app) to create your account and start your first project.
 
 ---
 
@@ -79,7 +79,7 @@ Visit [discourcenet.com](https://discourcenet.app) to create your account and st
 
 For inquiries, partnerships, or support, reach out to us:
 
-- **Website**: [discourcenet.com](https://discourcenet.app)
+- **Website**: [discourcenet.app](https://discourcenet.app)
 - **Email**: leobouts@gmail.com
 - **GitHub**: [@discourcenet](https://github.com/discourcenet)
 
