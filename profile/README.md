@@ -6,7 +6,7 @@
 
 *Revealing the stories shaping our world through computational analysis*
 
-[![Website](https://img.shields.io/badge/Website-discourcenet.com-blue)](https://discourcenet.app)
+[![Website](https://img.shields.io/badge/Website-discourcenet.app-blue)](https://discourcenet.app)
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/discourcenet)
 
 </div>
